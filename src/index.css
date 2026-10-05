@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+* {
+  color: #fff;
+}
+
+body {
+  background-color: #111;
+}
+
+#tasklist {
+  scrollbar-width: thin;
+  scrollbar-color: #3f3f46 #1c1c1c; /* thumb, track */
+}
+
+#tasklist::-webkit-scrollbar {
+  width: 8px;
+}
+
+#tasklist::-webkit-scrollbar-track {
+  background: #1c1c1c; /* the white part (background) */
+}
+
+#tasklist::-webkit-scrollbar-thumb {
+  background: #3f3f46; /* the moving bar */
+  border-radius: 9999px;
+}
+
+#tasklist::-webkit-scrollbar-thumb:hover {
+  background: #10b981; /* emerald on hover */
+}
