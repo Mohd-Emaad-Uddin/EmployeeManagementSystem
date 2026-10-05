@@ -5,22 +5,22 @@ A role-based task management app built with **React** and **Tailwind CSS**. An a
 ## Screenshots
 
 ### Login
-![Login page](./screenshots/login.png)
+![Login page](blob:https://claude.ai/c4de51e8-9a65-48fe-b80e-153cf4925654)
 
 ### Admin Dashboard
 Create a task and assign it to an employee.
 
-![Admin dashboard](./screenshots/admin-dashboard.png)
+![Admin dashboard](blob:https://claude.ai/04b955b0-0d0b-41da-ba73-57d8cac11859)
 
 ### Employee Task Overview (Admin)
 See how many new, active, completed and failed tasks each employee has.
 
-![All tasks table](./screenshots/all-tasks.png)
+![All tasks table](blob:https://claude.ai/d4d7acd0-81f9-41db-80dd-99bf15e0fb6a)
 
 ### Employee Dashboard
 Employees see their task counts and task cards, and can mark tasks as completed or failed.
 
-![Employee dashboard](./screenshots/employee-dashboard.png)
+![Employee dashboard](blob:https://claude.ai/4beab0d4-2b16-4171-b24d-bdbd1a0e00af)
 
 ## Features
 
